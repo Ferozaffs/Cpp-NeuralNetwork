@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.vs
+**/Release/*
+**/Debug/*
+PredictedInputCache_RGBContrastNetwork_Debug_x86.dat
+PredictedInputCache_RGBContrastNetwork_Release_x86.dat
